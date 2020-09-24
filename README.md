@@ -7,7 +7,7 @@ Project is developed in Angular 9, Bootstrap and SCSS.
 
 The app supports various mobile and browsers.
 
-![Image of misterbitcoin](https://i.ibb.co/SBf7fpr/Untitled2.png)
+![Image of misterbitcoin](https://i.ibb.co/Y8rTcp0/Untitled2.png)
 
 
 
